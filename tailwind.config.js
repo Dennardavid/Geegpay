@@ -7,6 +7,7 @@ module.exports = {
         lightmode: "#FAFAFA",
         darkmode: "#34CAA5",
         sidebar: "#F7F8FA",
+        sidebarborder: "#EBECF2",
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
